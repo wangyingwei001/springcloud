@@ -3,15 +3,14 @@ server:
 spring:
   application:
     name: config-server
-  profiles:
-    active: native
+
   cloud:
     config:
       server:
         git:
-          uri:
-          username:
-          password:
-            
+          uri: https://github.com/wangyingwei001/springcloud.git
+          username: wangyingwei001
+          password: wyw5274756
+          search-paths: configpath
 
 
