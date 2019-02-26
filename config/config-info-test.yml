@@ -1,1 +1,4 @@
 writer: jason(test)
+
+config:
+  book: config-info-test
