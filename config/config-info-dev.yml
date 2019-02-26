@@ -1,1 +1,4 @@
 writer: jason(dev)
+
+config:
+  book: config-info-dev
