@@ -1,1 +1,4 @@
 writer: jason(prod)
+
+config:
+  book: config-info-prod
