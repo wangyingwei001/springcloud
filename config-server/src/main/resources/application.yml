@@ -1,0 +1,17 @@
+server:
+  port: 3333
+spring:
+  application:
+    name: config-server
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+        git:
+          uri:
+          username:
+          password:
+            
+
+
