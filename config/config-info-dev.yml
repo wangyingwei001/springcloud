@@ -1,4 +1,6 @@
 writer: jason(dev)
 
-config:
-  book: config-info-dev
+com:
+  wyw:
+    configclient:
+      config: config-info-dev
