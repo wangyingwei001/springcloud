@@ -3,4 +3,4 @@ writer: jason(dev)
 com:
   wyw:
     configclient:
-      config: config-info-dev
+      config: config-info-dev-update
